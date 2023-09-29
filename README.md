@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there, I'm Aver! 👋
 
-<!--
-**AverWasTaken/AverWasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm passionate about coding and always eager to learn something new. Dive into my repos to see what I've been working on lately!
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- **Web Development**: HTML, CSS
+- **Learning**: Python 🐍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Current Focus
+I'm currently diving deep into Python, so if you have any cool resources or projects, do let me know!
+---
+
+
