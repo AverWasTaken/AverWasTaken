@@ -5,7 +5,7 @@
   
   Hi! I'm Aver. 
 
-  **Discord:** ayrvyr
+  **Discord:** ayvyr
   
   
   ### Languages
