@@ -1,13 +1,19 @@
-# Hi there, I'm Aver! 👋
-
-Welcome to my GitHub! I'm passionate about coding and always eager to learn something new. Dive into my repos to see what I've been working on lately!
-
-## 🛠️ Technologies & Tools
-- **Web Development**: HTML, CSS
-- **Learning**: Python 🐍
-
-## 🔍 Current Focus
-I'm currently diving deep into Python, so if you have any cool resources or projects, do let me know!
----
+<div align="center">
 
 
+  ### About Me
+  
+  Hi! I'm Aver. 
+
+  **Discord:** ayrvyr
+  
+  
+  ### Languages
+  
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="100">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="100">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="100"><br> 
+  <br>
+  
+  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AverWasTaken&langs_count=15&layout=compact&hide=mcfunction&theme=transparent&hide_border=true)
+</div>
