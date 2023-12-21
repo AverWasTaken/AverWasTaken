@@ -3,15 +3,15 @@
  ![imageedit_2_4187357788](https://raw.githubusercontent.com/AverWasTaken/AverWasTaken/main/aver.png)
   # About Me
   
-  ##Hi! I'm Aver. 
+  ## Hi! I'm Aver. 
  
 
-  **Discord:** ayvyr
+  ## **Discord:** ayvyr
 
-  **Professionally Certified in HTML/CSS**
+  ## **Professionally Certified in HTML/CSS**
   
   
-  ### Languages
+  # Languages
   
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="100">
