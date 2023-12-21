@@ -4,8 +4,11 @@
   ### About Me
   
   Hi! I'm Aver. 
+ 
 
   **Discord:** ayvyr
+
+  **Professionally Certified in HTML/CSS**
   
   
   ### Languages
