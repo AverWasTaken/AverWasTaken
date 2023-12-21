@@ -1,7 +1,6 @@
 <div align="center">
 
-![Aver Logo](https://raw.githubusercontent.com/AverWasTaken/AverWasTaken/main/aver.png#gh-light-mode-only)
-![Aver Logo](https://raw.githubusercontent.com/AverWasTaken/AverWasTaken/main/aver_dark.png#gh-dark-mode-only)
+![imageedit_2_4187357788](https://raw.githubusercontent.com/AverWasTaken/AverWasTaken/main/aver.png)
 # Hi! I'm Aver.
 
 ### **Discord:** ayvyr
