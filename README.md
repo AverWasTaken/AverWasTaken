@@ -1,7 +1,6 @@
 <div align="center">
 
 ![imageedit_2_4187357788](https://raw.githubusercontent.com/AverWasTaken/AverWasTaken/main/aver.png)
-# Hi! I'm Aver.
 
 ### **Discord:** ayvyr
 
