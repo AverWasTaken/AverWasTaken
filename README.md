@@ -11,9 +11,9 @@
 ## Languages
 
 <p>
-  <img alt="Python" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="50"/>
   <img alt="HTML5" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50"/>
   <img alt="CSS3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="50"/>
+  <img alt="Python" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="50"/>
   <img alt="Javascript" src="https://cdn.freebiesupply.com/logos/thumbs/2x/javascript-logo.png" height="50"/>
 </p>
 
