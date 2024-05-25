@@ -2,9 +2,11 @@
 
 ![imageedit_2_4187357788](https://raw.githubusercontent.com/AverWasTaken/AverWasTaken/main/aver.png)
 
-# **Discord:** ayvyr
+# Hey, I'm aver
 
-## **Professionally Certified in HTML/CSS**
+## Discord: ayvyr
+
+## Professionally Certified in HTML/CSS
 
 ---
 
@@ -20,5 +22,9 @@
 ---
 
 [![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AverWasTaken&langs_count=15&layout=compact&hide=mcfunction&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## Check out my website: [jusjcb.xyz](https://www.jusjcb.xyz)
 
 </div>
