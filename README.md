@@ -4,14 +4,11 @@
 
 # Hey, I'm aver
 
-## Discord: ayvyr
+### Discord: ayvyr
 
-## Professionally Certified in HTML/CSS
-
----
+### Professionally Certified in HTML/CSS
 
 ## Languages
-
 <p>
   <img alt="HTML5" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50"/>
   <img alt="CSS3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="50"/>
@@ -19,11 +16,7 @@
   <img alt="Javascript" src="https://cdn.freebiesupply.com/logos/thumbs/2x/javascript-logo.png" height="50"/>
 </p>
 
----
-
 [![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AverWasTaken&langs_count=15&layout=compact&hide=mcfunction&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ## Check out my website: [jusjcb.xyz](https://www.jusjcb.xyz)
 
