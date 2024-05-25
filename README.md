@@ -2,9 +2,9 @@
 
 ![imageedit_2_4187357788](https://raw.githubusercontent.com/AverWasTaken/AverWasTaken/main/aver.png)
 
-### **Discord:** ayvyr
+# **Discord:** ayvyr
 
-### **Professionally Certified in HTML/CSS**
+## **Professionally Certified in HTML/CSS**
 
 ---
 
