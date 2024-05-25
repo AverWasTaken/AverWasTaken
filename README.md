@@ -19,7 +19,7 @@ Fluent in:
 I am a passionate developer with a strong interest in web development and programming. I enjoy creating innovative solutions and learning new technologies to enhance my skills.
 
 ## Certifications
-- Professionally Certified in HTML/CSS
+Professionally Certified in HTML/CSS
 
 ## Contact Me
 Feel free to reach out to me on [Discord](https://discord.com/users/1186688612859924597/): ayvyr
