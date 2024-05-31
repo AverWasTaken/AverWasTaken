@@ -19,6 +19,7 @@ Fluent in:
 I am a passionate developer with a strong interest in web development and programming. I enjoy creating innovative solutions and learning new technologies to enhance my skills.
 
 ## Certifications
+A+ Cert
 Professionally Certified in HTML/CSS
 
 ## Contact Me
