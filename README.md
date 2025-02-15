@@ -16,7 +16,7 @@ Fluent in:
 ---
 
 ## About Me
-I am a passionate developer with a strong interest in web development and programming. I enjoy creating innovative solutions and learning new technologies to enhance my skills.
+I make websites, and do stuff with Python here and there.
 
 ## Certifications
 - A+ Cert
@@ -27,5 +27,6 @@ Feel free to reach out to me on [Discord](https://discord.com/users/118668861285
 
 ## Check Out My Website
 Visit my personal website: [jusjcb.xyz](https://www.jusjcb.xyz)
+Or, check out my business: [JCB Web Designs](https://jcbwebdesigns.com)
 
 </div>
