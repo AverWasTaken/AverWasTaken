@@ -1,32 +1,17 @@
-<div align="center">
+## About me
 
-![imageedit_2_4187357788](https://raw.githubusercontent.com/AverWasTaken/AverWasTaken/main/aver.png)
+Full Stack Software Developer
 
-[![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AverWasTaken&langs_count=15&layout=compact&hide=mcfunction&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+- HTML5, CSS3, JavaScript (ES6+), TypeScript.
+- React,Next, TailwindCSS, NodeJS, Supabase, Firebase, Astro, Svelte.
 
-## Languages
-Fluent in:
-<p>
-  <img alt="HTML5" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50"/>
-  <img alt="CSS3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="50"/>
-  <img alt="Python" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="50"/>
-  <img alt="JavaScript" src="https://cdn.freebiesupply.com/logos/thumbs/2x/javascript-logo.png" height="50"/>
+##
+<p align="center">
+<a href="https://github.com/Gothsec">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AverWasTaken&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AverWasTaken&layout=compact&langs_count=8&theme=algolia"/> </a>
 </p>
 
----
-
-## About Me
-I make websites, and do stuff with Python here and there.
-
-## Certifications
-- A+ Cert
-- Professionally Certified in HTML/CSS
-
-## Contact Me
-Feel free to reach out to me on [Discord](https://discord.com/users/1186688612859924597/): ayvyr
-
-## Check Out My Website
-Visit my personal website: [jusjcb.xyz](https://www.jusjcb.xyz)
-Or, check out my business: [JCB Web Designs](https://jcbwebdesigns.com)
-
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=fhgr4xgelpm4qtkc6wzro1dii&count=1&width=840px" alt="Spotify">
 </div>
