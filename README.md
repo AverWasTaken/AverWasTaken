@@ -3,7 +3,7 @@
 Full Stack Software Developer
 
 - HTML5, CSS3, JavaScript (ES6+), TypeScript.
-- React,Next, TailwindCSS, NodeJS, Supabase, Firebase, Astro, Svelte.
+- React, Next, TailwindCSS, NodeJS, Supabase, Firebase, Astro, Svelte.
 
 ##
 <p align="center">
